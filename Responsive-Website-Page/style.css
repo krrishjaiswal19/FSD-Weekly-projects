@@ -1,0 +1,85 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+.navbar{
+    display: flex; 
+    width: 100%;
+    justify-content: space-between;
+    padding: 1rem;
+    background: #222;
+    position:fixed;
+}
+
+.navbar a{
+    color: white;
+    margin-left: 1rem;
+    text-decoration: none;
+}
+
+.hero {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80vh;
+    background: #f4f4f4;
+    text-align: center;
+}
+
+.hero button {
+    padding: 10px 20px;
+    margin-top: 1rem;
+
+}
+.services {
+    padding: 2rem;
+    text-align: center;
+
+}
+.service-grid{
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1rem;
+}
+
+.card{
+    padding: 1.5rem;
+    background: #ddd;
+    border-radius: 8px;
+}
+.about{
+    text-align: center;
+    padding: 1rem;
+}
+.about p{
+    margin-top:0.5rem ;
+}
+
+
+.testimonials{
+    background: #222;
+    padding: 2rem;
+    text-align: center;
+
+}
+.footer{
+    background: #222;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+}
+
+@media (min-width: 768px){
+    .service-grid{
+        grid-template-columns: repeat(4,1fr);
+    }
+    .hero h1{
+        font-size: 3rem;
+    }
+}

@@ -103,6 +103,43 @@ The purpose of this project is to:
 (No JavaScript used in this project)
 
 ---
+  
+## Week-3 BIG Project (DAY-20)
+# Responsive Multi-Section Website 🌐
+
+This project is a **fully responsive multi-section website** built using  
+**HTML + CSS (Advanced)** with **Flexbox, Grid, and Mobile-First Design**.
+
+The goal of this project is to practice **real-world layout building** and
+strengthen my frontend fundamentals.
+
+---
+
+## 🚀 Features
+
+- ✅ Responsive Navbar  
+- ✅ Flexbox-based Hero Section  
+- ✅ CSS Grid Services Section  
+- ✅ Testimonials Section  
+- ✅ Footer  
+- ✅ Mobile-First Responsive Design  
+- ✅ Clean & Structured Code  
+
+---
+
+## 🛠️ Technologies Used
+
+- **HTML5**
+- **CSS3**
+  - Flexbox
+  - CSS Grid
+  - Media Queries
+  - Mobile-first approach
+
+---
+
+
+
 
 
 

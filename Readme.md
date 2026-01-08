@@ -104,8 +104,8 @@ The purpose of this project is to:
 
 ---
   
-## Week-3 BIG Project (DAY-20)
-# Responsive Multi-Section Website 🌐
+# Week-3 BIG Project
+## Responsive Multi-Section Website 🌐
 
 This project is a **fully responsive multi-section website** built using  
 **HTML + CSS (Advanced)** with **Flexbox, Grid, and Mobile-First Design**.
@@ -115,7 +115,7 @@ strengthen my frontend fundamentals.
 
 ---
 
-## 🚀 Features
+### 🚀 Features
 
 - ✅ Responsive Navbar  
 - ✅ Flexbox-based Hero Section  
@@ -127,7 +127,7 @@ strengthen my frontend fundamentals.
 
 ---
 
-## 🛠️ Technologies Used
+### 🛠️ Technologies Used
 
 - **HTML5**
 - **CSS3**
@@ -137,6 +137,26 @@ strengthen my frontend fundamentals.
   - Mobile-first approach
 
 ---
+
+# Week-4 BIG Project
+## Animated Multipage Website
+
+### Features
+- Animated navbar hover
+- Hero fade-in animation
+- Button hover effects
+- Services animations
+- Contact form with JS validation
+- Smooth scrolling
+
+### Tech Used
+- HTML
+- CSS (Animations)
+- JavaScript (Basics)
+
+---
+
+
 
 
 

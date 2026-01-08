@@ -1,0 +1,172 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar{
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+    padding: 15px 20px;
+    z-index: 1000;
+}
+
+.logo {
+  color: white;
+  font-size: 22px;
+  font-weight: bold;
+  transform: color 0.3s;
+}
+.logo:hover{
+    color: blueviolet;
+}
+
+.nav-links{
+    display: flex;
+    list-style: none;
+    gap: 20px;
+}
+
+.nav-links li a {
+  position: relative;
+  transition: color 0.3s ease;
+  text-decoration: none;
+  color: white;
+  font-size: 16px;
+  transition: color 0.3s;
+}
+
+
+.nav-links li a::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -5px;
+  width: 0%;
+  height: 2px;
+  background: #00ffcc;
+  transition: width 0.3s ease;
+}
+.nav-links li a:hover::after {
+  width: 100%;
+}
+
+.home{
+  background-color: aquamarine;
+  display: flexbox;
+  justify-content:space-around;
+  height: 100vh;
+  text-align: center;
+  align-content: center;
+  animation: fadeIn 1.2s ease forwards;
+}
+.about{
+  background-color: aqua;
+    display: flexbox;
+  justify-content:space-around;
+  height: 100vh;
+  text-align: center;
+  align-content: center;
+  animation: fadeIn 1.2s ease forwards;
+}
+.service{
+  background-color: rebeccapurple;
+  display: grid;
+  gap: 20px;
+  justify-content:space-around;
+  height: 100vh;
+  text-align: center;
+  align-content: center;
+  animation: fadeIn 1.2s ease forwards;
+}
+.contact{
+  background-color: #00ffcc;
+    display: flexbox;
+  justify-content:space-around;
+  height: 100vh;
+  text-align: center;
+  align-content: center;
+  animation: fadeIn 1.2s ease forwards;
+}
+
+ footer {
+  position: fixed;
+  bottom: 0; 
+  left: 0; 
+  width: 100%;
+  background: black;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  animation: fadeIn 1.2s ease forwards;
+}
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+.btn {
+  padding: 12px 25px;
+  border: none;
+  background: black;
+  color: white;
+  transition: 0.3s;
+  border-radius: 19px;
+  margin: 10px;
+}
+
+.btn:hover {
+  background: grey;
+  color: black;
+  transform: scale(1.1);
+}
+
+
+.card {
+  border-radius: 20px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  transition: 0.4s;
+}
+
+.card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+}
+
+#contactForm{
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+
+.contact-2{
+  margin: 10px;
+}
+
+.contact-3{
+  padding: 12px 25px;
+  border: none;
+  background: black;
+  color: white;
+  transition: 0.3s;
+  border-radius: 19px;
+  margin: 10px;
+}
+.contact-3:hover{
+  background: grey;
+  color: white;
+  transform: scale(1.1);
+}

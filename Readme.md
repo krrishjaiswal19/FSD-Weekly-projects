@@ -6,7 +6,7 @@ It is part of my **Full Stack Development learning journey** and focuses on stre
 
 ---
 
-## 📌 Project Overview
+## 📌 Project Overview 
 
 This resume website includes all the essential sections required for a beginner-level portfolio:
 
@@ -155,6 +155,7 @@ strengthen my frontend fundamentals.
 - JavaScript (Basics)
 
 ---
+
 
 
 

@@ -156,6 +156,36 @@ strengthen my frontend fundamentals.
 
 ---
 
+# Week-5 Student Management App (JavaScript DOM)
+
+## Description
+This is a simple JavaScript DOM based project where users can:
+- Add student name and marks
+- View student list dynamically
+- Calculate total marks and percentage
+- Delete any student from the list
+
+## Features
+- Dynamic DOM updates
+- Event handling
+- Basic calculations
+- Clean UI
+
+## Screenshots
+(Add screenshots here)
+
+## Learning Outcome
+- DOM manipulation
+- Event listeners
+- JS logic building
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript (DOM Manipulation)
+
+
+
 
 
 

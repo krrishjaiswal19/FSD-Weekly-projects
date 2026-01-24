@@ -184,6 +184,48 @@ This is a simple JavaScript DOM based project where users can:
 - CSS
 - JavaScript (DOM Manipulation)
 
+# WEEK-6 – BIG PROJECT 🚀  
+## Personal Expense Tracker (Advanced JavaScript DOM App)
+
+## 📌 Project Overview
+Aaj ke project me maine **Personal Expense Tracker** banaya hai using  
+**HTML, CSS, JavaScript (DOM) aur LocalStorage**.
+
+Is project ka main focus real-world JavaScript usage, DOM manipulation
+aur data persistence samajhna tha.
+
+---
+
+## 🎯 Features
+- Expense add karna (Title + Amount)
+- Expense list dynamically show hoti hai
+- Individual expense delete kar sakte hain
+- Total expense automatic calculate hota hai
+- Data **localStorage** me save hota hai (refresh ke baad bhi)
+- Clean & simple UI
+
+---
+
+## 🛠 Tech Stack
+- HTML  
+- CSS  
+- JavaScript  
+- DOM Manipulation  
+- LocalStorage  
+
+---
+
+## 📚 Concepts Covered
+- getElementById & createElement
+- addEventListener
+- Dynamic DOM rendering
+- Array of objects
+- localStorage (setItem, getItem)
+- JSON.stringify & JSON.parse
+- Delete functionality using index
+
+---
+
 
 
 

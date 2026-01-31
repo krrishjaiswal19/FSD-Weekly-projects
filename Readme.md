@@ -225,6 +225,30 @@ aur data persistence samajhna tha.
 - Delete functionality using index
 
 ---
+# WEEK -7 BIG PROJECT
+## React Student Dashboard
+
+A simple React mini project to practice core React concepts.
+
+## Features
+- Component based structure
+- Props and state management
+- Add students dynamically
+- Conditional rendering
+- Clean and beginner friendly UI
+
+## Tech Stack
+- React
+- JavaScript
+- CSS
+
+## Screenshots
+(Add screenshots here)
+
+## How to Run
+npm install  
+npm start
+
 
 
 
